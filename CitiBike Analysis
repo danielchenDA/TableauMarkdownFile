@@ -1,0 +1,19 @@
+Customers Defined Analysis
+
+  CitiBike NYC has seen a definitive change in their customer population. Taking a look at the data from the 2015s,
+CitiBike was a relatively new concept and many have not been sold by the idea. However since the 2015s, the number of customers
+has more than doubled. The number of men using CitiBike has more than doubled (12.5k to 29k), and the number of women using CitiBike
+has found similar change starting at a measly 4k riders to now 11k riders. The increases in riders has also shown to be consistent since
+CitiBike users are predominantly subscribers or have a 1 year subscription to the program. It can be concluded that both males and females
+in the New York have received the CitiBike program with open arms and many have integrated bike riding into their lifestyle.
+
+Customers' Travel Preferences
+  Building onto the above conclusion, an extensive look into the data revealed that CitiBike users are shown to use its services
+outside of Manhattan and mostly in the New Jersey suburbs. The age of customer's in the 2018s and 2019s have also shown a spike in the
+50s age range, which can be inferred to fit the demographics of the suburbs rather than those of the inner city. It is also shown that most
+riders are around the age of 30 and start and begin their trips in New Jersey. This shows that bikers' vouch for their safety since riding
+in the suburbs is potentially less dangerous than in the busy streets of New York. Unfortunately, many of these conclusions have results based in
+speculation, but that is due to the restrictions of the dataset. What can be inferred are definitive answers that users start and end their trips
+in the suburbs.
+
+Link to Dashboard: https://public.tableau.com/profile/daniel.chen8398#!/vizhome/CitiBikeAnalysis_15798254489170/CustomersTravelPreferences?publish=yes
